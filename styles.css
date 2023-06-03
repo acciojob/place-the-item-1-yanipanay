@@ -1,10 +1,11 @@
 
 /* Your CSS Code here. */
-.main{
+.holder{
+	width:100%;
 	display:flex;
 	justify-content:space-between;
 }
-.box{
+.holder{
 	width:100px;
 	height:100px;
 	font-size:30px
